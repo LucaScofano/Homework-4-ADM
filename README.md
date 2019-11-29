@@ -10,3 +10,5 @@ We are group n°1 composed of:
 - Nathan Bry
 
 ## Content
+
+- main.ipynb : This file contains the answers to Q1, Q2, Q3 and Q4
